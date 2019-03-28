@@ -2,6 +2,30 @@
 
 Exercise to work with some widgets.
 
+# Widgets learned
+
+- Stateless vs Stateful
+
+- Text
+
+- Column
+
+- Row
+
+- Image
+
+- Stack
+
+- Padding
+
+- TextStyle
+
+- FontStyle
+
+- FontWeight
+
+- FlatButton
+
 ## Getting Started
 
 About the course:
